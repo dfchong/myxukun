@@ -2,6 +2,8 @@
     <wb-module deploy-name="myxukun">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/ab"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/hj"/>
         <property name="context-root" value="myxukun"/>
         <property name="java-output-path" value="/myxukun/build/classes"/>
     </wb-module>
